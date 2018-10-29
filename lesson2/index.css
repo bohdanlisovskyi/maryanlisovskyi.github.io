@@ -1,0 +1,239 @@
+*{
+    border:0;
+    margin:0;
+    padding:0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    margin: 0 auto;
+    width: 888px;
+}
+.navigation li{
+    list-style: none;
+    display: inline-block;
+}
+.navigation a {
+    display:block;
+    width: 80px;
+    color: #5f5f5f;
+    text-align: center;
+    text-decoration:none;
+}
+#header{
+    border-top: solid #e3e3e3 1px;
+    border-bottom: solid #e3e3e3 1px;
+    width: 100%;
+    height: 70px;
+    box-sizing: border-box;
+
+}
+.header-left, .header-righr{
+    width: 25%;
+    height: 70px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.header-cent{
+    width: 50%;
+    height: 70px;
+    float: left;
+    text-align: center;
+}
+.fab{
+    color: #b9bbbb;
+    box-sizing: border-box;
+    height: 37px;
+    width: 55px;
+    border: 1px solid #e3e3e3;
+    text-align: center;
+    padding-top: 9px;
+}
+.textH1{
+    margin: 10px 0 0 0;
+    text-decoration: none;
+    color: #000000;
+}
+.text-block{
+    color: snow;
+    text-decoration: none;
+}
+.header-black{
+    width: 100%;
+    height: 100px;
+    background: #333333;
+    border-top: 5px #9f000e solid;
+}
+.b-black{
+    /*background: slateblue;*/
+    height:90% ;
+    width: 90%;
+    margin: 1% 5%;
+}
+.b-black1{
+    /*background: yellow;*/
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.a-black1{
+    /*background: #9f000e;*/
+    width: 50%;
+    height: 75px ;
+    float: left;
+    padding: 0 0 0 20px;
+
+}
+.a-black2{
+    /*background: #02d0ff;*/
+    width: 50%;
+    height: 75px ;
+    float: left;
+    border-right: 1px solid #434343;
+}
+.b-black2{
+    /*background: #09e7ff;*/
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.b-black3{
+    /*background: #ff0705;*/
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.b-black4{
+    /*background: #70ff1a;*/
+    width: 10%;
+    height: 80%;
+    float: left;
+    margin: 10px 55px;
+
+}
+
+/***********************!!!ЦЕНТР!!!*************************/
+.centr-block{
+    /*background: #9f000e;*/
+    width: 85%;
+    height: 1750px;
+    margin: 50px  auto 0 auto;
+}
+
+.centr-Left{
+    /*background: yellow;*/
+    width: 30%;
+    height: 100%;
+    float: left;
+    padding: 0  0 0 40px;
+    border-right: 1px solid darkgray;
+
+}
+/*розписую лівий блок*/
+.bloc-left-l{
+    /*background: #09ffff;*/
+    width: 95% ;
+
+}
+.paragr1{
+    padding: 7px;
+    border-bottom: 1px solid #bdbdbd;
+}
+/*розписую cent блок*/
+.centr-C{
+    /*background: #25ff15;*/
+    width: 40%;
+    height: 800px;
+    float: left;
+
+
+}
+.centr-C-C{
+    /*background: #e3e3e3;*/
+    width: 95%;
+    height: 1000px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e3e3e3;
+}
+.center-block-0{
+    /*background: yellow;*/
+    height: 120px;
+    width: 100%;
+}.center-block-1, .center-block-2{
+     /*background: #ff271a;*/
+     height: 120px;
+     width: 50%;
+    float: left;
+    /*border: 1px solid #9e9e9e;*/
+    margin: 10px 0;
+ }
+/*розписую правий блок*/
+.centr-Right{
+    /*background: #3c0407;*/
+    width: 30%;
+    height: 100%;
+    float: left;
+    border-left:1px solid slategray ;
+    margin-bottom: 10px ;
+}
+.bloc-right{
+    /*background: #1afaff;*/
+    height: 100px;
+    width: 95%;
+    margin: 0 auto;
+
+}
+
+.centr-right-1{
+    /*background: #5f5f5f;*/
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.centr-right-2{
+    /*background: yellow;*/
+    width: 75%;
+    height: 100px;
+    float: left;
+    border-bottom: 1px #a7a9a9 solid;
+}
+
+.footer{
+    background: #333333;
+    border-top: 5px solid #9f000e;
+    width: 100%;
+    height: 300px;
+}
+.foter-b{
+    width: 80%;
+    height: 80%;
+    margin: 20px auto;
+    border-bottom: #989a9a 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
